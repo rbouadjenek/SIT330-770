@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-01T8:00:00+3:30
+date: 2024-03-01 07:00:00 +0430
 title: Course Overview
 tldr: "Introduction and course overview."
 thumbnail: /static_files/presentations/lec.jpg
