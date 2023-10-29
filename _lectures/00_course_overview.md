@@ -1,0 +1,17 @@
+---
+type: lecture
+date: 2024-03-01T8:00:00+4:30
+title: Information Retrieval Part 1
+tldr: "Inverted indices, scoring, term weighting, and the vector space model."
+thumbnail: /static_files/presentations/lec.jpg
+links: 
+    - url: /static_files/presentations/lec.zip
+      name: notes
+    - url: /static_files/presentations/code.zip
+      name: codes
+    - url: https://google.com
+      name: slides
+---
+**Video recordings:**
+- [Readings 1](http://example.com)
+- [Readings 2](http://example.com)
