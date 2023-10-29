@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-29T8:00:00+4:30
+date: 2024-04-09T10:00:00
 title: Naïve Bayes and Sentiment Classification
 tldr: "Naïve Bayes and Sentiment Classification."
 thumbnail: /static_files/presentations/lec.jpg
