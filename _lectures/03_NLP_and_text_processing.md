@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-15T8:00:00+4:30
+date: 2024-03-19T10:00:00
 title: NLP and text processing
 tldr: "NLP and text processing."
 thumbnail: /static_files/presentations/lec.jpg
