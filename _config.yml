@@ -1,12 +1,12 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Natural Language Processing
+course_description: "This unit provides students with a deep understanding of the basic theories and techniques used to process large-scale of text document data to understand, search, identify, and extract information from semi-structured text documents. The unit will cover basic technologies for text document analysis, including information retrieval, search and indexing, information extraction, document classification, and natural language understanding."
+course_semester: "Winter 2024"
 
 baseurl: "/SIT770-330" # the subpath of your site, e.g. /blog/
 url: "http://rbouadjenek.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
+schoolname: "Deakin University"
 schoolurl: "https://hogwarts.edu"
 twitter_username: username 
 
