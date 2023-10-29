@@ -7,13 +7,13 @@ baseurl: "/SIT770-330" # the subpath of your site, e.g. /blog/
 url: "http://rbouadjenek.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Deakin University"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolurl: "https://www.deakin.edu.au/"
+# twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Information Technology
+    Deakin University
+    Victoria, Australia
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
