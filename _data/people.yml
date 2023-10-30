@@ -5,10 +5,10 @@ instructors:
   # - name: Minerva McGonagall
   #   profile_pic: /_images/pp/mcgonagall.jpg
 
-teaching_assistants:
-  - name: XYZ XYZ
-    profile_pic: /_images/pp/unk.png
-    webpage: https://en.wikipedia.org/
+# teaching_assistants:
+#   - name: XYZ XYZ
+#     profile_pic: /_images/pp/unk.png
+#     webpage: https://en.wikipedia.org/
 
   # - name: Hermione Granger
   #   profile_pic: /_images/pp/granger.jpg
