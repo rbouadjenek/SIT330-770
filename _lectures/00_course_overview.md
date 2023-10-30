@@ -15,3 +15,4 @@ links:
 ---
 **Video recordings:**
 - [SIT330-770: Natural Language Processing - Welcome](https://www.youtube.com/watch?v=g-_oLHVzcik&list=PLOkd5jhg0iW2ahKx_7C9E6VmgPE2RR4mC)
+- [Course Overview]()
