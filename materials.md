@@ -4,11 +4,13 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="https://nlp.stanford.edu/IR-book/iir.jpg" width=175 align="right" %}
 
-## Book
+## Textbook: Information Retrieval
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Introduction to Information Retrieval 
+- Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze
+   - Draft chapters, April 1, 2009!
 
 ## Additional Course Materials
 
