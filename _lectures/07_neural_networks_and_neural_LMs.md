@@ -4,7 +4,7 @@ date: 2024-04-23T10:00:00
 title: Neural Networks and Neural LMs
 tldr: "Neural Networks and Neural LMs."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/nn.png
 links: 
     - url: /static_files/presentations/lec.zip
       name: notes
