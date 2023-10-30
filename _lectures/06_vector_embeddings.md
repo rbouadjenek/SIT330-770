@@ -4,7 +4,7 @@ date: 2024-04-16T10:00:00
 title: Vector Embeddings
 tldr: "Vector Embeddings."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/we.png
 links: 
     - url: /static_files/presentations/lec.zip
       name: notes
