@@ -7,13 +7,13 @@ instructors:
 
 teaching_assistants:
   - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    profile_pic: /_images/pp/unk.png
+    webpage: https://en.wikipedia.org/
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  # - name: Hermione Granger
+  #   profile_pic: /_images/pp/granger.jpg
+  #   webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  # - name: Ron Weasley
+  #   profile_pic: /_images/pp/weasley.jpg
+  #   webpage: https://en.wikipedia.org/wiki/Ron_Weasley
