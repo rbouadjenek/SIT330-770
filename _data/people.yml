@@ -5,6 +5,13 @@ instructors:
   # - name: Minerva McGonagall
   #   profile_pic: /_images/pp/mcgonagall.jpg
 
+burwood_campus_coordinator:
+  - name: Bahadorreza Ofoghi
+    profile_pic: /_images/pp/bahadorreza.png
+    webpage: https://www.deakin.edu.au/about-deakin/people/bahadorreza-ofoghi
+  # - name: Minerva McGonagall
+  #   profile_pic: /_images/pp/mcgonagall.jpg
+
 # teaching_assistants:
 #   - name: XYZ XYZ
 #     profile_pic: /_images/pp/unk.png
