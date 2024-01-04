@@ -25,7 +25,7 @@ layout: default
 
     <br>
     <div>
-        <div style="width:35%; float: left">
+        <div style="width:18%; float: left">
             <!-- <h2>Instructors</h2> -->
             <!-- <div class="image--cover-container">
                 <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
@@ -34,6 +34,23 @@ layout: default
 
             <div class="profile-pic-gallary ">
                 <h2>Unit chair</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:17%; float: left">
+
+            <div class="profile-pic-gallary ">
+                <h2>Burwood Campus Coordinator</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
