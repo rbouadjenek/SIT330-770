@@ -6,12 +6,10 @@ tldr: "N-gram Language Models."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/n-gram_language_models.png
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/
       name: slides
+    - url: /static_files/presentations/
+      name: slides 6up
 ---
 **Video recordings:**
 - [Recording 1](http://example.com)
