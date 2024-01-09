@@ -6,12 +6,10 @@ tldr: "NLP and text processing."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/NLP_and_text_processing.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/presentations/
       name: slides
+    - url: /static_files/presentations/
+      name: slides 6up
 ---
 **Video recordings:**
 - [Recording 1](http://example.com)
