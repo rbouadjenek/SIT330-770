@@ -1,5 +1,6 @@
 ---
 type: lecture
+week: Week 3
 date: 2024-03-19T10:00:00
 title: NLP and text processing
 tldr: "NLP and text processing."
