@@ -1,5 +1,6 @@
 ---
 type: lecture
+week: Week 6
 date: 2024-04-16T10:00:00
 title: Vector Embeddings
 tldr: "Vector Embeddings."
