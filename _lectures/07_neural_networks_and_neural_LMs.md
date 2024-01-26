@@ -1,5 +1,6 @@
 ---
 type: lecture
+week: Week 7
 date: 2024-04-23T10:00:00
 title: Neural Networks and Neural LMs
 tldr: "Neural Networks and Neural LMs."
