@@ -3,4 +3,4 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+This unit uses a portfolio-based assessment approach, where all assignments are exclusively accessible through the OnTrack platform.
