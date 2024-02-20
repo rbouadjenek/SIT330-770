@@ -10,6 +10,6 @@ links:
     - url: https://google.com
       name: slides
 ---
-**Video recordings:**
-- [Welcome to SIT330-770 Natural Language Processing](https://www.youtube.com/watch?v=g-_oLHVzcik&list=PLOkd5jhg0iW2ahKx_7C9E6VmgPE2RR4mC)
-- [Course Overview]()
+**Video recordings (23 Minutes and 19 Seconds):**
+- [Welcome to SIT330-770 Natural Language Processing (1:37)](https://www.youtube.com/watch?v=g-_oLHVzcik&list=PLOkd5jhg0iW2ahKx_7C9E6VmgPE2RR4mC)
+- [Course Overview (25:52)](https://youtu.be/NRbdOjZAFSY)
