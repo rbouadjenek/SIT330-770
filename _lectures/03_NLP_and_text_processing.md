@@ -21,7 +21,7 @@ links:
     - [Word tokenization](http://example.com)
     - [Byte Pair Encoding](http://example.com)
     - [Word Normalization and other issues](http://example.com)
-- [SIT770 ONLY] Edit Distance
+- <span style="color:blue">**[SIT770 ONLY]** </span> Edit Distance
     - [Definition of Minimum Edit Distance](http://example.com)
     - [Computing Minimum Edit Distance](http://example.com)
     - [Backtrace for Computing Alignments](http://example.com)
