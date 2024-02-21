@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 0
-date: 2024-03-04T10:00:00
+date: 2024-02-26T10:00:00
 title: Course Overview
 tldr: "Introduction and course overview."
 hide_from_announcments: true
