@@ -3,4 +3,6 @@ layout: lectures
 title: Lectures
 permalink: /lectures/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Important notes:
+- We will try to upload lectures prior to their corresponding classes.
+- **[SIT770]**: Indicates that the content provided is specifically tailored for students currently enrolled in SIT770.
