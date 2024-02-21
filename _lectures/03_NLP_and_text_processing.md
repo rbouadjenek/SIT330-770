@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 3
-date: 2024-03-19T10:00:00
+date: 2024-03-18T10:00:00
 title: Text processing
 tldr: "text processing."
 hide_from_announcments: true
