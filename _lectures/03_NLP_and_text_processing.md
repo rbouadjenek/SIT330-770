@@ -7,9 +7,9 @@ tldr: "text processing."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/NLP_and_text_processing.jpg
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_3_-_Text_preprocessing.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_3_-_Text_preprocessing_6up.pdf
       name: slides 6up
 ---
 **Video recordings:**
