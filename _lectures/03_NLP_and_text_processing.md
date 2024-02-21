@@ -1,4 +1,4 @@
----
+![image](https://github.com/rbouadjenek/SIT330-770/assets/7735263/b6f7f3d4-0757-41a8-a8bf-a336d93edb71)---
 type: lecture
 week: Week 3
 date: 2024-03-19T10:00:00
@@ -13,5 +13,17 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- [Recording 1](http://example.com)
-- [Recording 2](http://example.com)
+- Regular Expressions
+    - [Regular Expressions](http://example.com)
+    - [More Regular Expressions: Substitutions and ELIZA](http://example.com)
+- Text Normalization
+    - [Words and Corpora](http://example.com)
+    - [Word tokenization](http://example.com)
+    - [Byte Pair Encoding](http://example.com)
+    - [Word Normalization and other issues](http://example.com)
+- ◆ Edit Distance
+    - [Definition of Minimum Edit Distance](http://example.com)
+    - [Computing Minimum Edit Distance](http://example.com)
+    - [Backtrace for Computing Alignments](http://example.com)
+    - [Weighted Minimum Edit Distance](http://example.com)
+    - [Minimum Edit Distance in Computational Biology](http://example.com)
