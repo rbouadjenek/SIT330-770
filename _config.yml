@@ -1,5 +1,5 @@
 # Site settings
-course_name: SIT330-770: Natural Language Processing
+course_name: [SIT330-770] Natural Language Processing
 course_description: "In today's digital age, the pervasive use of technology has transformed the way we communicate, resulting in an unprecedented surge of text data across various platforms. From webpages and social media posts to emails and medical reports, this text-centric communication has created a vast reservoir of information. Companies recognize the immense value embedded in this textual data, making the ability to extract meaningful insights from it crucial for their success. This unit, Natural Language Processing, delves into the core techniques and methodologies designed to harness the power of large-scale text data. Focusing on descriptive, predictive, and prescriptive analytics, the course explores cutting-edge Document Processing techniques. Students will gain in-depth knowledge of fast, effective, and scalable approaches in information retrieval, text mining, and machine learning algorithms."
 course_semester: "Trimester 1, 2024"
 
