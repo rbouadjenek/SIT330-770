@@ -1,7 +1,7 @@
 ---
 type: lecture
 week: Week 5
-date: 2024-04-09T10:00:00
+date: 2024-04-08T10:00:00
 title: Naïve Bayes and Sentiment Classification
 tldr: "Naïve Bayes and Sentiment Classification."
 hide_from_announcments: true
