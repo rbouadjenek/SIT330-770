@@ -22,7 +22,7 @@ links:
     - [Byte Pair Encoding (10:50)](https://youtu.be/Y1xJlx-fSI0)
     - [Word Normalization and other issues (7:52)](https://youtu.be/H6F0rsYe2EY)
 - **[SIT770]** Edit Distance:
-    - [Definition of Minimum Edit Distance](http://example.com)
+    - [Definition of Minimum Edit Distance (10:57)](https://youtu.be/hMEXsY2I0OM)
     - [Computing Minimum Edit Distance](http://example.com)
     - [Backtrace for Computing Alignments](http://example.com)
     - [Weighted Minimum Edit Distance](http://example.com)
