@@ -19,7 +19,7 @@ links:
 - Text Normalization:
     - [Words and Corpora (7:39)](https://youtu.be/5iFVic6lrJw)
     - [Word tokenization (10:31)](https://youtu.be/s1nSxnme9t4)
-    - [Byte Pair Encoding](http://example.com)
+    - [Byte Pair Encoding (10:50)](https://youtu.be/Y1xJlx-fSI0)
     - [Word Normalization and other issues](http://example.com)
 - **[SIT770]** Edit Distance:
     - [Definition of Minimum Edit Distance](http://example.com)
