@@ -16,11 +16,11 @@ links:
 - Regular Expressions (28 Minutes and 32 Seconds):
     - [Regular Expressions (17:44)](https://youtu.be/Rgy0Oj5xcDA)
     - [More Regular Expressions: Substitutions and ELIZA (10:48)](https://youtu.be/HVUL5QpX3H8)
-- Text Normalization:
+- Text Normalization (36 Minutes and 52 Seconds):
     - [Words and Corpora (7:39)](https://youtu.be/5iFVic6lrJw)
     - [Word tokenization (10:31)](https://youtu.be/s1nSxnme9t4)
     - [Byte Pair Encoding (10:50)](https://youtu.be/Y1xJlx-fSI0)
-    - [Word Normalization and other issues](http://example.com)
+    - [Word Normalization and other issues (7:52)](https://youtu.be/H6F0rsYe2EY)
 - **[SIT770]** Edit Distance:
     - [Definition of Minimum Edit Distance](http://example.com)
     - [Computing Minimum Edit Distance](http://example.com)
