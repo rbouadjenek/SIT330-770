@@ -14,7 +14,7 @@ links:
 ---
 **Video recordings:**
 - Regular Expressions
-    - [Regular Expressions](http://example.com)
+    - [Regular Expressions (17:44)](https://youtu.be/Rgy0Oj5xcDA)
     - [More Regular Expressions: Substitutions and ELIZA](http://example.com)
 - Text Normalization
     - [Words and Corpora](http://example.com)
