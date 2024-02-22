@@ -23,7 +23,7 @@ links:
     - [Word Normalization and other issues (7:52)](https://youtu.be/H6F0rsYe2EY)
 - **[SIT770]** Edit Distance:
     - [Definition of Minimum Edit Distance (10:57)](https://youtu.be/hMEXsY2I0OM)
-    - [Computing Minimum Edit Distance](http://example.com)
+    - [Computing Minimum Edit Distance (13:32)](https://youtu.be/OsNXhLij4Bk)
     - [Backtrace for Computing Alignments](http://example.com)
     - [Weighted Minimum Edit Distance](http://example.com)
     - [Minimum Edit Distance in Computational Biology](http://example.com)
