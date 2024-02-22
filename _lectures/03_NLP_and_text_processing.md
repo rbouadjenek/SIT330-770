@@ -18,7 +18,7 @@ links:
     - [More Regular Expressions: Substitutions and ELIZA (10:48)](https://youtu.be/HVUL5QpX3H8)
 - Text Normalization:
     - [Words and Corpora (7:39)](https://youtu.be/5iFVic6lrJw)
-    - [Word tokenization](http://example.com)
+    - [Word tokenization (10:31)](https://youtu.be/s1nSxnme9t4)
     - [Byte Pair Encoding](http://example.com)
     - [Word Normalization and other issues](http://example.com)
 - **[SIT770]** Edit Distance:
