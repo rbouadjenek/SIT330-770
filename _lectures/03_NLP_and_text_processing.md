@@ -24,6 +24,6 @@ links:
 - **[SIT770]** Edit Distance:
     - [Definition of Minimum Edit Distance (10:57)](https://youtu.be/hMEXsY2I0OM)
     - [Computing Minimum Edit Distance (13:32)](https://youtu.be/OsNXhLij4Bk)
-    - [Backtrace for Computing Alignments](http://example.com)
+    - [Backtrace for Computing Alignments (7:01)](https://youtu.be/DgJalp7hrbE)
     - [Weighted Minimum Edit Distance](http://example.com)
     - [Minimum Edit Distance in Computational Biology](http://example.com)
