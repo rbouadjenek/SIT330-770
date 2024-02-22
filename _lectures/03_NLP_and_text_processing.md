@@ -12,7 +12,7 @@ links:
     - url: /static_files/presentations/Week_3_-_Text_preprocessing_6up.pdf
       name: slides 6up
 ---
-**Video recordings:**
+**Video recordings (1 Hour, 53 Minutes and 35 Seconds):**
 - Regular Expressions (28 Minutes and 32 Seconds):
     - [Regular Expressions (17:44)](https://youtu.be/Rgy0Oj5xcDA)
     - [More Regular Expressions: Substitutions and ELIZA (10:48)](https://youtu.be/HVUL5QpX3H8)
@@ -21,9 +21,9 @@ links:
     - [Word tokenization (10:31)](https://youtu.be/s1nSxnme9t4)
     - [Byte Pair Encoding (10:50)](https://youtu.be/Y1xJlx-fSI0)
     - [Word Normalization and other issues (7:52)](https://youtu.be/H6F0rsYe2EY)
-- **[SIT770]** Edit Distance:
+- **[SIT770]** Edit Distance (48 Minutes and 11 Seconds):
     - [Definition of Minimum Edit Distance (10:57)](https://youtu.be/hMEXsY2I0OM)
     - [Computing Minimum Edit Distance (13:32)](https://youtu.be/OsNXhLij4Bk)
     - [Backtrace for Computing Alignments (7:01)](https://youtu.be/DgJalp7hrbE)
     - [Weighted Minimum Edit Distance (4:20)](https://youtu.be/FKNTx4coYM0)
-    - [Minimum Edit Distance in Computational Biology](http://example.com)
+    - [Minimum Edit Distance in Computational Biology (12:21)](https://youtu.be/da4YHI1PQEQ)
