@@ -13,15 +13,15 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- Regular Expressions
+- Regular Expressions:
     - [Regular Expressions (17:44)](https://youtu.be/Rgy0Oj5xcDA)
     - [More Regular Expressions: Substitutions and ELIZA](http://example.com)
-- Text Normalization
+- Text Normalization:
     - [Words and Corpora](http://example.com)
     - [Word tokenization](http://example.com)
     - [Byte Pair Encoding](http://example.com)
     - [Word Normalization and other issues](http://example.com)
-- **[SIT770]** Edit Distance
+- **[SIT770]** Edit Distance:
     - [Definition of Minimum Edit Distance](http://example.com)
     - [Computing Minimum Edit Distance](http://example.com)
     - [Backtrace for Computing Alignments](http://example.com)
