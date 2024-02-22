@@ -13,9 +13,9 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- Regular Expressions:
+- Regular Expressions (28 Minutes and 32 Seconds):
     - [Regular Expressions (17:44)](https://youtu.be/Rgy0Oj5xcDA)
-    - [More Regular Expressions: Substitutions and ELIZA](http://example.com)
+    - [More Regular Expressions: Substitutions and ELIZA (10:48)](https://youtu.be/HVUL5QpX3H8)
 - Text Normalization:
     - [Words and Corpora](http://example.com)
     - [Word tokenization](http://example.com)
