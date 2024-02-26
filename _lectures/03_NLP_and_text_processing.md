@@ -5,7 +5,7 @@ date: 2024-03-18T10:00:00
 title: Text processing
 tldr: "text processing."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/NLP_and_text_processing.jpg
+thumbnail: /static_files/presentations/NLP_and_text_processing.png
 links: 
     - url: /static_files/presentations/Week_3_-_Text_preprocessing.pdf
       name: slides
