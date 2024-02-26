@@ -5,7 +5,7 @@ date: 2024-05-06T10:00:00
 title: RNNs and LSTMs
 tldr: "RNNs and LSTMs."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/nn.png
+thumbnail: /static_files/presentations/RNNs_and_LSTMs.png
 links: 
     - url: /static_files/presentations/
       name: slides
