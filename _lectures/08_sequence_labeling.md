@@ -5,7 +5,7 @@ date: 2024-04-29T10:00:00
 title: Sequence Labeling
 tldr: "Sequence Labeling."
 hide_from_announcments: true
-thumbnail: /static_files/presentations/nn.png
+thumbnail: /static_files/presentations/sequence_labeling.png
 links: 
     - url: /static_files/presentations/
       name: slides
