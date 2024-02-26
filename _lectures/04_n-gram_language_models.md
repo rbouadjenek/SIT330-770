@@ -7,9 +7,9 @@ tldr: "N-gram Language Models."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/n-gram_language_models.png
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_4_-_N-gram_Language_Models.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_4_-_N-gram_Language_Models_6up.pdf
       name: slides 6up
 ---
 **Video recordings:**
