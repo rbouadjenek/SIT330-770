@@ -3,7 +3,7 @@ type: lecture
 week: Week 3
 date: 2024-03-18T10:00:00
 title: Text processing
-tldr: "text processing."
+tldr: "Regular Expressions, Text Normalization, Edit Distance."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/NLP_and_text_processing.png
 links: 
