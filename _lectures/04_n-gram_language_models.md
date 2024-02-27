@@ -14,15 +14,15 @@ links:
 ---
 **Video recordings:**
 - Language Models:
-    - [Introduction to N-grams](http://example.com)
-    - [Estimating N-gram Probabilities](http://example.com)
-    - [Evaluation and Perplexity](http://example.com)
-    - [Sampling and Generalization](http://example.com)
-    - [Smoothing: Add-one (Laplace) smoothing](http://example.com)
-    - [Interpolation, Backoff, and Web-Scale LMs](http://example.com)
-    - [Kneser-Ney Smoothing](http://example.com)
+    - [Introduction to N-grams](https://youtu.be/LT0Ksr4W1C0)
+    - [Estimating N-gram Probabilities](XXXXXXXXXXXX)
+    - [Evaluation and Perplexity](XXXXXXXXXXXX)
+    - [Sampling and Generalization](XXXXXXXXXXXX)
+    - [Smoothing: Add-one (Laplace) smoothing](XXXXXXXXXXXX)
+    - [Interpolation, Backoff, and Web-Scale LMs](XXXXXXXXXXXX)
+    - [Kneser-Ney Smoothing](XXXXXXXXXXXX)
 - Spelling Correction and the Noisy Channel:
-    - [The Spelling Correction Task](http://example.com)
-    - [The Noisy Channel Model of Spelling](http://example.com)
-    - [Real-word spelling errors](http://example.com)
-    - [State-of-the-art noisy systems](http://example.com)
+    - [The Spelling Correction Task](XXXXXXXXXXXX)
+    - [The Noisy Channel Model of Spelling](XXXXXXXXXXXX)
+    - [Real-word spelling errors](XXXXXXXXXXXX)
+    - [State-of-the-art noisy systems](XXXXXXXXXXXX)
