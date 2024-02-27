@@ -14,8 +14,8 @@ links:
 ---
 **Video recordings:**
 - Language Models:
-    - [Introduction to N-grams](https://youtu.be/LT0Ksr4W1C0)
-    - [Estimating N-gram Probabilities](XXXXXXXXXXXX)
+    - [Introduction to N-grams (13:40)](https://youtu.be/LT0Ksr4W1C0)
+    - [Estimating N-gram Probabilities (8:55)](https://youtu.be/7O7DOiqhvt4)
     - [Evaluation and Perplexity](XXXXXXXXXXXX)
     - [Sampling and Generalization](XXXXXXXXXXXX)
     - [Smoothing: Add-one (Laplace) smoothing](XXXXXXXXXXXX)
