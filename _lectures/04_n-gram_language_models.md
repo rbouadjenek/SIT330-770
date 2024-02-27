@@ -16,7 +16,7 @@ links:
 - Language Models:
     - [Introduction to N-grams (13:40)](https://youtu.be/LT0Ksr4W1C0)
     - [Estimating N-gram Probabilities (8:55)](https://youtu.be/7O7DOiqhvt4)
-    - [Evaluation and Perplexity](XXXXXXXXXXXX)
+    - [Evaluation and Perplexity (13:08)](https://youtu.be/blk3GX62XjA)
     - [Sampling and Generalization](XXXXXXXXXXXX)
     - [Smoothing: Add-one (Laplace) smoothing](XXXXXXXXXXXX)
     - [Interpolation, Backoff, and Web-Scale LMs](XXXXXXXXXXXX)
