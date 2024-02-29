@@ -18,7 +18,7 @@ links:
     - [Estimating N-gram Probabilities (8:55)](https://youtu.be/7O7DOiqhvt4)
     - [Evaluation and Perplexity (13:08)](https://youtu.be/blk3GX62XjA)
     - [Sampling and Generalization (11:30)](https://youtu.be/AKCFwxj-XTQ)
-    - [Smoothing: Add-one (Laplace) smoothing](XXXXXXXXXXXX)
+    - [Smoothing: Add-one (Laplace) smoothing (8:10)](https://youtu.be/yZ9MCbMe2Ws)
     - [Interpolation, Backoff, and Web-Scale LMs](XXXXXXXXXXXX)
     - [Kneser-Ney Smoothing](XXXXXXXXXXXX)
 - Spelling Correction and the Noisy Channel:
