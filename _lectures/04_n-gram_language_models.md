@@ -13,7 +13,7 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- Language Models:
+- Language Models (1 Hour, 14 Minutes and 31 Seconds):
     - [Introduction to N-grams (13:40)](https://youtu.be/LT0Ksr4W1C0)
     - [Estimating N-gram Probabilities (8:55)](https://youtu.be/7O7DOiqhvt4)
     - [Evaluation and Perplexity (13:08)](https://youtu.be/blk3GX62XjA)
