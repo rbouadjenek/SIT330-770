@@ -22,7 +22,7 @@ links:
     - [Interpolation, Backoff, and Web-Scale LMs (10:10)](https://youtu.be/FZFE4d7iHiA)
     - [Kneser-Ney Smoothing (8:58)](https://youtu.be/uptdq8Fa-aE)
 - Spelling Correction and the Noisy Channel:
-    - [The Spelling Correction Task](XXXXXXXXXXXX)
+    - [The Spelling Correction Task (7:06)](https://youtu.be/_jJ1aCOoGwo)
     - [The Noisy Channel Model of Spelling](XXXXXXXXXXXX)
     - [Real-word spelling errors](XXXXXXXXXXXX)
     - [State-of-the-art noisy systems](XXXXXXXXXXXX)
