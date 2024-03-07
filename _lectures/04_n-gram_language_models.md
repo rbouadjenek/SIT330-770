@@ -20,7 +20,7 @@ links:
     - [Sampling and Generalization (11:30)](https://youtu.be/AKCFwxj-XTQ)
     - [Smoothing: Add-one (Laplace) smoothing (8:10)](https://youtu.be/yZ9MCbMe2Ws)
     - [Interpolation, Backoff, and Web-Scale LMs (10:10)](https://youtu.be/FZFE4d7iHiA)
-    - [Kneser-Ney Smoothing](XXXXXXXXXXXX)
+    - [Kneser-Ney Smoothing (8:58)](https://youtu.be/uptdq8Fa-aE)
 - Spelling Correction and the Noisy Channel:
     - [The Spelling Correction Task](XXXXXXXXXXXX)
     - [The Noisy Channel Model of Spelling](XXXXXXXXXXXX)
