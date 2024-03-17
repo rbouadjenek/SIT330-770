@@ -23,6 +23,6 @@ links:
     - [Kneser-Ney Smoothing (8:58)](https://youtu.be/uptdq8Fa-aE)
 - Spelling Correction and the Noisy Channel:
     - [The Spelling Correction Task (7:06)](https://youtu.be/_jJ1aCOoGwo)
-    - [The Noisy Channel Model of Spelling](XXXXXXXXXXXX)
+    - [The Noisy Channel Model of Spelling (23:43)](https://youtu.be/QADhN6RaRwk)
     - [Real-word spelling errors](XXXXXXXXXXXX)
     - [State-of-the-art noisy systems](XXXXXXXXXXXX)
