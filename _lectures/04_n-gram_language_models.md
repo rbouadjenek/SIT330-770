@@ -24,5 +24,5 @@ links:
 - Spelling Correction and the Noisy Channel:
     - [The Spelling Correction Task (7:06)](https://youtu.be/_jJ1aCOoGwo)
     - [The Noisy Channel Model of Spelling (23:43)](https://youtu.be/QADhN6RaRwk)
-    - [Real-word spelling errors](XXXXXXXXXXXX)
+    - [Real-word spelling errors (8:33)](https://youtu.be/uexAaSZZ5Zg)
     - [State-of-the-art noisy systems](XXXXXXXXXXXX)
