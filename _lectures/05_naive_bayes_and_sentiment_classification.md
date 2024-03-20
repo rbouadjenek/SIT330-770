@@ -1,4 +1,4 @@
-![image](https://github.com/rbouadjenek/SIT330-770/assets/7735263/6e4e5363-cca5-445e-bd59-06f3c0e2a5c6)---
+---
 type: lecture
 week: Week 5
 date: 2024-04-08T10:00:00
