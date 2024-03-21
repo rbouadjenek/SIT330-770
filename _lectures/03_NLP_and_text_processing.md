@@ -18,8 +18,8 @@ links:
     - [More Regular Expressions: Substitutions and ELIZA (10:48)](https://youtu.be/HVUL5QpX3H8)
 - Text Normalization (37 Minutes and 11 Seconds):
     - [Words and Corpora (7:39)](https://youtu.be/5iFVic6lrJw)
-    - [Word tokenization (10:31)](https://youtu.be/q34Yxov2on4)
-    - [Byte Pair Encoding (11:09)](https://youtu.be/Y1xJlx-fSI0)
+    - [Word tokenization (10:31)](https://youtu.be/s1nSxnme9t4)
+    - [Byte Pair Encoding (11:09)](https://youtu.be/q34Yxov2on4)
     - [Word Normalization and other issues (7:52)](https://youtu.be/H6F0rsYe2EY)
 - **[SIT770]** Edit Distance (48 Minutes and 49 Seconds):
     - [Definition of Minimum Edit Distance (10:57)](https://youtu.be/hMEXsY2I0OM)
