@@ -14,7 +14,7 @@ links:
 ---
 **Video recordings:**
 - [The Task of Text Classification (9:59)](https://youtu.be/37qeHg7st78)
-- [The Text Classification Problem](XXXXXXXX)
+- [The Text Classification Problem (5:53)](https://youtu.be/wS4yUMPwjJM)
 - [The Naive Bayes Classifier](XXXXXXXX)
 - [Naive Bayes: Learning](XXXXXXXX)
 - [Sentiment and Binary Naive Bayes](XXXXXXXX)
