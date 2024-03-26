@@ -26,5 +26,5 @@ links:
     - [Evaluation with more than two classes (10:35)](https://youtu.be/Vjj4QfWjcTQ)
     - **[SIT770]** [Statistical Significance Testing (6:52)](https://youtu.be/Jy8PFVQCapM)
     - **[SIT770]** [The Paired Bootstrap Test (9:44)](https://youtu.be/Cs5eCz3fVBY)
-    - [Text Classification: Practical Issues](XXXXXXXX)
+    - [Text Classification: Practical Issues (8:05)](https://youtu.be/cK3dD0G-6xM)
     - [Avoiding Harms in Classification](XXXXXXXX)
