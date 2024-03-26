@@ -19,7 +19,7 @@ links:
 - [Naive Bayes: Learning (10:26)](https://youtu.be/aBikFFct-yY)
 - [Sentiment and Binary Naive Bayes (11:13)](https://youtu.be/Hi5Owt_lj90)
 - [More on Sentiment Classification (10:09)](https://youtu.be/cOzsIG62BIk)
-- [Naïve Bayes: Relationship to Language Modeling](XXXXXXXX)
+- [Naïve Bayes: Relationship to Language Modeling (5:08)](https://youtu.be/KqyfM3lnFEk)
 - [Evaluating a Sentiment Classifier](XXXXXXXX)
 - [Evaluation with more than two classes](XXXXXXXX)
 - [Statistical Significance Testing](XXXXXXXX)
