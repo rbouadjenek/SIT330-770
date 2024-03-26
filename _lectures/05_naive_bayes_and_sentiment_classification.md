@@ -13,7 +13,7 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- Naïve Bayes and Sentiment Classification (2 Hours, 01 Minutes and 09 Seconds):
+- Naïve Bayes and Sentiment Classification (1 Hours, 20 Minutes and 51 Seconds):
     - [The Task of Text Classification (9:59)](https://youtu.be/37qeHg7st78)
     - [The Text Classification Problem (5:53)](https://youtu.be/wS4yUMPwjJM)
     - [The Naive Bayes Classifier (15:14)](https://youtu.be/zPtpTXBAnZA)
@@ -22,7 +22,7 @@ links:
     - [More on Sentiment Classification (10:09)](https://youtu.be/cOzsIG62BIk)
     - [Naïve Bayes: Relationship to Language Modeling (5:08)](https://youtu.be/KqyfM3lnFEk)
     - [Text Classification: Practical Issues (8:05)](https://youtu.be/cK3dD0G-6xM)
-    - [Avoiding Harms in Classification (5:14)](https://youtu.be/LXZ6ScDM-7I)
+    - [Avoiding Harms in Classification (4:44)](https://youtu.be/wyxklZjkMS0)
 - Evaluation and Testing Techniques for Sentiment Analysis and Text Classification (39 Minutes and 48 Seconds):
     - [Evaluating a Sentiment Classifier (12:37)](https://youtu.be/TCHCGre98L0)
     - [Evaluation with more than two classes (10:35)](https://youtu.be/Vjj4QfWjcTQ)
