@@ -21,7 +21,7 @@ links:
 - [More on Sentiment Classification (10:09)](https://youtu.be/cOzsIG62BIk)
 - [Naïve Bayes: Relationship to Language Modeling (5:08)](https://youtu.be/KqyfM3lnFEk)
 - [Evaluating a Sentiment Classifier (12:37)](https://youtu.be/TCHCGre98L0)
-- [Evaluation with more than two classes](XXXXXXXX)
+- [Evaluation with more than two classes (10:35)](https://youtu.be/Vjj4QfWjcTQ)
 - [Statistical Significance Testing](XXXXXXXX)
 - [The Paired Bootstrap Test](XXXXXXXX)
 - [Text Classification: Practical Issues](XXXXXXXX)
