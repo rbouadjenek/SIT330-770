@@ -23,6 +23,6 @@ links:
 - [Evaluating a Sentiment Classifier (12:37)](https://youtu.be/TCHCGre98L0)
 - [Evaluation with more than two classes (10:35)](https://youtu.be/Vjj4QfWjcTQ)
 - [Statistical Significance Testing (6:52)](https://youtu.be/Jy8PFVQCapM)
-- [The Paired Bootstrap Test (9:44)]((https://youtu.be/Cs5eCz3fVBY)
+- [The Paired Bootstrap Test (9:44)](https://youtu.be/Cs5eCz3fVBY)
 - [Text Classification: Practical Issues](XXXXXXXX)
 - [Avoiding Harms in Classification](XXXXXXXX)
