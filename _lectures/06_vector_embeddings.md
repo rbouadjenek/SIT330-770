@@ -13,7 +13,7 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- [Word Meaning](http://example.com)
+- [Word Meaning (16:20)](https://youtu.be/jKEwPAPQZzA)
 - [Vector Semantics](http://example.com)
 - [Words and Vectors: BOW](http://example.com)
 - [Word2Vec](http://example.com)
