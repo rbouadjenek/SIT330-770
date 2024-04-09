@@ -16,7 +16,7 @@ links:
 - [Word Meaning (16:20)](https://youtu.be/jKEwPAPQZzA)
 - [Vector Semantics (10:37)](https://youtu.be/W8GlEnwcBnE)
 - [Words and Vectors: BOW (7:07)](https://youtu.be/_uAS9f9YWqQ)
-- [Word2Vec](http://example.com)
+- [Word2Vec (14:46)](https://youtu.be/ZCvHd5r4Oyo)
 - [Word2vec: Learning the embeddings](http://example.com)
 - [Word Embedding vs. Bag of Words](http://example.com)
 - [Properties of Embeddings](http://example.com)
