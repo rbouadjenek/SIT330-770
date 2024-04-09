@@ -18,5 +18,5 @@ links:
 - [Words and Vectors: BOW (7:07)](https://youtu.be/_uAS9f9YWqQ)
 - [Word2Vec (14:46)](https://youtu.be/ZCvHd5r4Oyo)
 - [Word2vec: Learning the embeddings (11:32)](https://youtu.be/TDluE_XJA4E)
-- [Word Embedding vs. Bag of Words](http://example.com)
+- [Word Embedding vs. Bag of Words (4:03)](https://youtu.be/YotbfsCON3M)
 - [Properties of Embeddings](http://example.com)
