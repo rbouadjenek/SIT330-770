@@ -12,7 +12,7 @@ links:
     - url: /static_files/presentations/Week_6_-_Vector_Semantics_and_Embeddings_6up.pdf
       name: slides 6up
 ---
-**Video recordings (1 Hour, 12 Minutes and 07 Seconds)::**
+**Video recordings (1 Hour, 12 Minutes and 07 Seconds):**
 - [Word Meaning (16:20)](https://youtu.be/jKEwPAPQZzA)
 - [Vector Semantics (10:37)](https://youtu.be/W8GlEnwcBnE)
 - [Words and Vectors: BOW (7:07)](https://youtu.be/_uAS9f9YWqQ)
