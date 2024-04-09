@@ -21,4 +21,4 @@ links:
 - [Word Embedding vs. Bag of Words (4:03)](https://youtu.be/YotbfsCON3M)
 - [Properties of Embeddings (7:42)](https://youtu.be/6uMAklv4xi4)
 - Optional:
-    - [Word embeddings LSA, Word2Vec, Glove, ELMo](https://rbouadjenek.github.io/papers/wordembed_v2.0.pdf7)
+    - [Word embeddings LSA, Word2Vec, Glove, ELMo](https://rbouadjenek.github.io/papers/wordembed_v2.0.pdf)
