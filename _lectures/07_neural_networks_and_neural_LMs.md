@@ -15,15 +15,15 @@ links:
       name: NN Notes
 ---
 **Video recordings:**
-- [Week 7.1 - Introduction](XXXXXX)
+- [Introduction](XXXXXX)
 - Introduction to Neural Networks ((1 Hour, 13 Minutes and 06 Seconds):
-    - [Week 7.2 - Neural Networks Overview (4:26)](XXXXX)
-    - [Week 7.3 - Neural Network Representation (5:14)](XXXXX)
-    - [Week 7.4 - Computing a Neural Network's Output (9:57)](XXXXX)
-    - [Week 7.5 - Vectorizing across multiple examples (9:05)](XXXXX)
-    - [Week 7.6 - Explanation for Vectorized Implementation (7:37)](XXXXX)
-    - [Week 7.7 - Activation functions (10:56)](XXXXX)
-    - [Week 7.8 - Derivatives of activation functions (7:57)](XXXXX)
-    - [Week 7.9 - Gradient descent for Neural Networks (9:57)](XXXXX)
-    - [Week 7.10 - Random Initialization (7:57)](XXXXX)
-- [Week 7.11 - Applying feedforward networks to NLP tasks](XXXXX)
+    - [Neural Networks Overview (4:26)](XXXXX)
+    - [Neural Network Representation (5:14)](XXXXX)
+    - [Computing a Neural Network's Output (9:57)](XXXXX)
+    - [Vectorizing across multiple examples (9:05)](XXXXX)
+    - [Explanation for Vectorized Implementation (7:37)](XXXXX)
+    - [Activation functions (10:56)](XXXXX)
+    - [Derivatives of activation functions (7:57)](XXXXX)
+    - [Gradient descent for Neural Networks (9:57)](XXXXX)
+    - [Random Initialization (7:57)](XXXXX)
+- [Applying feedforward networks to NLP tasks](XXXXX)
