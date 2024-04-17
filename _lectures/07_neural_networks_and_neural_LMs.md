@@ -17,9 +17,9 @@ links:
 **Video recordings:**
 - [Introduction](XXXXXX)
 - Introduction to Neural Nets (1 Hour, 13 Minutes and 06 Seconds):
-    - [Neural Networks Overview (4:26)](XXXXX)
-    - [Neural Network Representation (5:14)](XXXXX)
-    - [Computing a Neural Network's Output (9:57)](XXXXX)
+    - [Neural Networks Overview (4:26)](https://youtu.be/NAZFnD0jfLw)
+    - [Neural Network Representation (5:14)](https://youtu.be/bYtACdBD9xo)
+    - [Computing a Neural Network's Output (9:57)](https://youtu.be/t99bStihO6g)
     - [Vectorizing across multiple examples (9:05)](XXXXX)
     - [Explanation for Vectorized Implementation (7:37)](XXXXX)
     - [Activation functions (10:56)](XXXXX)
