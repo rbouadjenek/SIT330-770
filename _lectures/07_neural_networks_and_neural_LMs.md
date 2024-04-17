@@ -11,6 +11,8 @@ links:
       name: slides
     - url: /static_files/presentations/Week_7.2_-_Neural_Networks_and_Neural_LMs_6up.pdf
       name: slides 6up
+    - url: /static_files/presentations/Week_7.2_-_Neural_Nets_Lecture_Notes.pdf
+      name: NN Notes
 ---
 **Video recordings:**
 - [Recording 1](http://example.com)
