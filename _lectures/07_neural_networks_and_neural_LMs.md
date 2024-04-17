@@ -7,13 +7,23 @@ tldr: "Neural Networks and Neural LMs."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/nn.png
 links: 
-    - url: /static_files/presentations/Week_7.2_-_Neural_Networks_and_Neural_LMs.pdf
+    - url: /static_files/presentations/Week_7_-_Neural_Networks_and_Neural_LMs.pdf
       name: slides
-    - url: /static_files/presentations/Week_7.2_-_Neural_Networks_and_Neural_LMs_6up.pdf
+    - url: /static_files/presentations/Week_7_-_Neural_Networks_and_Neural_LMs_6up.pdf
       name: slides 6up
-    - url: /static_files/presentations/Week_7.2_-_Neural_Nets_Lecture_Notes.pdf
+    - url: /static_files/presentations/Week_7_-_Neural_Nets_Lecture_Notes.pdf
       name: NN Notes
 ---
 **Video recordings:**
-- [Recording 1](http://example.com)
-- [Recording 2](http://example.com)
+- [Week 7.1 - Introduction](XXXXXX)
+- Introduction to Neural Networks ((1 Hour, 13 Minutes and 06 Seconds):
+    - [Week 7.2 - Neural Networks Overview (4:26)](XXXXX)
+    - [Week 7.3 - Neural Network Representation (5:14)](XXXXX)
+    - [Week 7.4 - Computing a Neural Network's Output (9:57)](XXXXX)
+    - [Week 7.5 - Vectorizing across multiple examples (9:05)](XXXXX)
+    - [Week 7.6 - Explanation for Vectorized Implementation (7:37)](XXXXX)
+    - [Week 7.7 - Activation functions (10:56)](XXXXX)
+    - [Week 7.8 - Derivatives of activation functions (7:57)](XXXXX)
+    - [Week 7.9 - Gradient descent for Neural Networks (9:57)](XXXXX)
+    - [Week 7.10 - Random Initialization (7:57)](XXXXX)
+- [Week 7.11 - Applying feedforward networks to NLP tasks](XXXXX)
