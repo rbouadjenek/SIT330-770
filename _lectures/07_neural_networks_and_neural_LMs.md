@@ -14,7 +14,7 @@ links:
     - url: /static_files/presentations/Week_7_-_Neural_Nets_Lecture_Notes.pdf
       name: NN Notes
 ---
-**Video recordings:**
+**Video recordings (1 Hour, 29 Minutes and 39 Seconds):**
 - [Introduction (1:01)](https://youtu.be/xRdRtW30esQ)
 - Introduction to Neural Nets (1 Hour, 13 Minutes and 06 Seconds):
     - [Neural Networks Overview (4:26)](https://youtu.be/NAZFnD0jfLw)
@@ -26,4 +26,4 @@ links:
     - [Derivatives of activation functions (7:57)](https://youtu.be/Ah7NChvn8rg)
     - [Gradient descent for Neural Networks (9:57)](https://youtu.be/cTBTdyZl2tk)
     - [Random Initialization (7:57)](https://youtu.be/DMM9wBm-mLk)
-- [Applying feedforward networks to NLP tasks](XXXXX)
+- [Applying feedforward networks to NLP tasks (15:32)](https://youtu.be/GlnLFI4zoeU)
