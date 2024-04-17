@@ -7,9 +7,9 @@ tldr: "Neural Networks and Neural LMs."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/nn.png
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_7.2_-_Neural_Networks_and_Neural_LMs.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_7.2_-_Neural_Networks_and_Neural_LMs_6up.pdf
       name: slides 6up
 ---
 **Video recordings:**
