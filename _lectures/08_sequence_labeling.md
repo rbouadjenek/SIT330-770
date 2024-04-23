@@ -1,4 +1,4 @@
-![image](https://github.com/rbouadjenek/SIT330-770/assets/7735263/3279f704-f885-4081-9690-50d1a22af06a)---
+---
 type: lecture
 week: Week 8
 date: 2024-04-29T10:00:00
@@ -16,6 +16,7 @@ links:
 - [Part of Speech Tagging](XXXXXXX)
 - [Named Entity Recognition (NER)](XXXXXXX)
 - [Hidden Markov Model (HMM) Part-of-Speech Tagging](XXXXXXX)
+- [The components of an HMM tagger](XXXXXXX)
 - [HMM tagging as decoding](XXXXXXX)
 - [The Viterbi Algorithm](XXXXXXX)
 - [Conditional Random Fields (CRFs)](XXXXXXX)
