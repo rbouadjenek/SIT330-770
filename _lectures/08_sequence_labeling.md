@@ -7,9 +7,9 @@ tldr: "Sequence Labeling."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/sequence_labeling.png
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_8_-_Sequence_Labeling.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_8_-_Sequence_Labeling_6up.pdf
       name: slides 6up
 ---
 **Video recordings:**
