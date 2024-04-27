@@ -16,7 +16,7 @@ links:
 - [English Word Classes (11:47)](https://youtu.be/LfUMJ0zPfnU)
 - [Part of Speech Tagging (11:07)](https://youtu.be/kMbXaqoMNwA)
 - [Named Entity Recognition (NER) (12:29)](https://youtu.be/oH_XW2vHvwc)
-- [Hidden Markov Model (HMM) Part-of-Speech Tagging](XXXXXXX)
+- [Hidden Markov Model (HMM) Part-of-Speech Tagging (11:17)](https://youtu.be/DY7OjWF8z0U)
 - [The components of an HMM tagger](XXXXXXX)
 - [HMM tagging as decoding](XXXXXXX)
 - [The Viterbi Algorithm](XXXXXXX)
