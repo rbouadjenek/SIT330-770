@@ -1,4 +1,4 @@
----
+![image](https://github.com/rbouadjenek/SIT330-770/assets/7735263/0e65bcc8-9bdd-47cf-b9e8-0c8b5fe65e34)---
 type: lecture
 week: Week 8
 date: 2024-04-29T10:00:00
@@ -13,6 +13,7 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
+- [English Word Classes (11:47)](https://youtu.be/LfUMJ0zPfnU)
 - [Part of Speech Tagging](XXXXXXX)
 - [Named Entity Recognition (NER)](XXXXXXX)
 - [Hidden Markov Model (HMM) Part-of-Speech Tagging](XXXXXXX)
