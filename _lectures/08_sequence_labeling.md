@@ -17,7 +17,7 @@ links:
 - [Part of Speech Tagging (11:07)](https://youtu.be/kMbXaqoMNwA)
 - [Named Entity Recognition (NER) (12:29)](https://youtu.be/oH_XW2vHvwc)
 - [Hidden Markov Model (HMM) Part-of-Speech Tagging (11:17)](https://youtu.be/DY7OjWF8z0U)
-- [The components of an HMM tagger](XXXXXXX)
+- [The components of an HMM tagger (9:40)](https://youtu.be/zjinY-1R8rM)
 - [HMM tagging as decoding](XXXXXXX)
 - [The Viterbi Algorithm](XXXXXXX)
 - [Conditional Random Fields (CRFs)](XXXXXXX)
