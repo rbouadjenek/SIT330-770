@@ -14,7 +14,7 @@ links:
 ---
 **Video recordings:**
 - [English Word Classes (11:47)](https://youtu.be/LfUMJ0zPfnU)
-- [Part of Speech Tagging](XXXXXXX)
+- [Part of Speech Tagging](https://youtu.be/kMbXaqoMNwA)
 - [Named Entity Recognition (NER)](XXXXXXX)
 - [Hidden Markov Model (HMM) Part-of-Speech Tagging](XXXXXXX)
 - [The components of an HMM tagger](XXXXXXX)
