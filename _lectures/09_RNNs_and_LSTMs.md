@@ -13,5 +13,17 @@ links:
       name: slides 6up
 ---
 **Video recordings:**
-- [Recording 1](http://example.com)
-- [Recording 2](http://example.com)
+- [Why sequence models](https://youtu.be/y-O_T1Hs_kY)
+- [Notation](https://youtu.be/gYq_7dQjE0E)
+- [Recurrent Neural Network Model](https://youtu.be/FheGYaqaoDM)
+- [Different types of RNNs](https://youtu.be/R0MJxEt13JE)
+- [Language model and sequence generation](https://youtu.be/lEfmvxSV5JE)
+- [Sampling novel sequences](https://youtu.be/3r5Yh_2iOUc)
+- [Vanishing gradients with RNNs](https://youtu.be/tVjFRqkhXR0)
+- [Gated Recurrent Unit (GRU)](https://youtu.be/Mawg5l7VCSg)
+- [XXXXXXXXX](XXXXXXXXX)
+- [XXXXXXXXX](XXXXXXXXX)
+- [XXXXXXXXX](XXXXXXXXX)
+- [XXXXXXXXX](XXXXXXXXX)
+- [XXXXXXXXX](XXXXXXXXX)
+- [XXXXXXXXX](XXXXXXXXX)
