@@ -12,7 +12,7 @@ links:
     - url: /static_files/presentations/Week_7_-_Neural_Networks_and_Neural_LMs_6up.pdf
       name: slides 6up
     - url: /static_files/presentations/Week_7_-_Neural_Nets_Lecture_Notes.pdf
-      name: NN Notes
+      name: Notes
 ---
 **Video recordings (1 Hour, 29 Minutes and 39 Seconds):**
 - [Introduction (1:01)](https://youtu.be/xRdRtW30esQ)
