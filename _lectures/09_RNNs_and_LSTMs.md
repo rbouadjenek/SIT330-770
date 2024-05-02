@@ -13,7 +13,7 @@ links:
       name: slides 6up
 ---
 **Video recordings  (2 Hours, 34 Minutes and 11 Seconds)::**
-- [Why sequence models (3:00)](https://youtu.be/y-O_T1Hs_kY)
+- [Why sequence models? (3:00)](https://youtu.be/y-O_T1Hs_kY)
 - [Notation (9:15)](https://youtu.be/gYq_7dQjE0E)
 - [Recurrent Neural Network Model (16:31)](https://youtu.be/FheGYaqaoDM)
 - [Different types of RNNs (8:33)](https://youtu.be/R0MJxEt13JE)
