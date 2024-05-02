@@ -7,10 +7,12 @@ tldr: "RNNs and LSTMs."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/RNNs_and_LSTMs.png
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_9_-_RNNs_and_LSTMs.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_9_-_RNNs_and_LSTMs_6up.pdf
       name: slides 6up
+    - url: /static_files/presentations/rnn_notes.pdf
+      name: Notes
 ---
 **Video recordings  (2 Hours, 34 Minutes and 11 Seconds):**
 - [Why sequence models? (3:00)](https://youtu.be/y-O_T1Hs_kY)
