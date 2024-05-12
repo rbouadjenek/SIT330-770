@@ -15,7 +15,7 @@ links:
 **Video recordings (X Hour, XX Minutes and XX Seconds):**
 - Introduction to Transformers
 - Self-Attention Mechanism
-- The Transformer Block
+- The Encoder Transformer Block
 - The Input: Embeddings for Tokens
 - The Input: Embeddings for Positions
 - The Task Specific Head
