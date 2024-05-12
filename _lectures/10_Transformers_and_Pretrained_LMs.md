@@ -22,7 +22,7 @@ links:
     - [The Task Specific Head (6:11)](https://youtu.be/Ek6W2Wd7Ty4)
 - Pre-trained LMs (X Hour, XX Minutes and XX Seconds)
     - [BERT: Bidirectional Encoder Representations from Transformers (13:34)](https://youtu.be/7QRpWx9UhWo)
-    - BERT pre-training
+    - [BERT pre-training (13:39)](https://youtu.be/CJsVqr5uWvc)
     - BERT fine-tuning
     - BERT Performance
     - Other Models Based on Transformers
