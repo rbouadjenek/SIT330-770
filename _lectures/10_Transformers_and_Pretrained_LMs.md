@@ -13,15 +13,17 @@ links:
       name: slides 6up
 ---
 **Video recordings (X Hour, XX Minutes and XX Seconds):**
-- Introduction to Transformers
-- Self-Attention Mechanism
-- The Encoder Transformer Block
-- The Input: Embeddings for Tokens
-- The Input: Embeddings for Positions
-- The Task Specific Head
-- BERT: Bidirectional Encoder Representations from Transformers
-- BERT pre-training
-- BERT fine-tuning
-- BERT Performance
-- Other Models Based on Transformers
-- HuggingFace
+- Transformers: Attention Is All You Need!
+    - Introduction to Transformers
+    - Self-Attention Mechanism
+    - The Encoder Transformer Block
+    - The Input: Embeddings for Tokens
+    - The Input: Embeddings for Positions
+    - The Task Specific Head
+- Pre-trained LMs
+    - BERT: Bidirectional Encoder Representations from Transformers
+    - BERT pre-training
+    - BERT fine-tuning
+    - BERT Performance
+    - Other Models Based on Transformers
+    - HuggingFace
