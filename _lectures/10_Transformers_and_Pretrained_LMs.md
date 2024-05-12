@@ -21,7 +21,7 @@ links:
     - [The Input: Embeddings for Positions (11:15)](https://youtu.be/dRQ8cDMbq9E)
     - [The Task Specific Head (6:11)](https://youtu.be/Ek6W2Wd7Ty4)
 - Pre-trained LMs (X Hour, XX Minutes and XX Seconds)
-    - BERT: Bidirectional Encoder Representations from Transformers
+    - [BERT: Bidirectional Encoder Representations from Transformers (13:34)](https://youtu.be/7QRpWx9UhWo)
     - BERT pre-training
     - BERT fine-tuning
     - BERT Performance
