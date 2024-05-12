@@ -25,5 +25,5 @@ links:
     - [BERT pre-training (13:39)](https://youtu.be/CJsVqr5uWvc)
     - [BERT fine-tuning (9:16)](https://youtu.be/yI6CfB_CceY)
     - [BERT Performance (6:11)](https://youtu.be/t46q_h3IC6E)
-    - Other Models Based on Transformers
+    - [Other Models Based on Transformers (6:43)](https://youtu.be/DxpJWvW7Mfw)
     - HuggingFace
