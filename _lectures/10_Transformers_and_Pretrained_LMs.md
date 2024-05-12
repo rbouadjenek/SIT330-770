@@ -13,13 +13,13 @@ links:
       name: slides 6up
 ---
 **Video recordings (X Hour, XX Minutes and XX Seconds):**
-- Transformers: Attention Is All You Need! (X Hour, XX Minutes and XX Seconds)
+- Transformers: Attention Is All You Need! (1 Hour, 10 Minutes and 29 Seconds)
     - [Introduction to Transformers (16:23)](https://youtu.be/KCqihbmWeao)
     - [Self-Attention Mechanism (18:10)](https://youtu.be/qEBFfTywJNg)
     - [The Encoder Transformer Block (10:27)](https://youtu.be/iFD27h617jo)
     - [The Input: Embeddings for Tokens (8:03)](https://youtu.be/DZuZFPH5lbo)
     - [The Input: Embeddings for Positions (11:15)](https://youtu.be/dRQ8cDMbq9E)
-    - The Task Specific Head
+    - [The Task Specific Head (6:11)](https://youtu.be/Ek6W2Wd7Ty4)
 - Pre-trained LMs (X Hour, XX Minutes and XX Seconds)
     - BERT: Bidirectional Encoder Representations from Transformers
     - BERT pre-training
