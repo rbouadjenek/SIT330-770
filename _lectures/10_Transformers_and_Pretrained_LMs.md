@@ -7,9 +7,9 @@ tldr: "Transformers and Pretrained LMs."
 hide_from_announcments: true
 thumbnail: /static_files/presentations/transformers.jpg
 links: 
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_10_-_Transformers_and_Pretrained_LMs.pdf
       name: slides
-    - url: /static_files/presentations/
+    - url: /static_files/presentations/Week_10_-_Transformers_and_Pretrained_LMs_6up.pdf
       name: slides 6up
 ---
 **Video recordings (X Hour, XX Minutes and XX Seconds):**
@@ -23,3 +23,5 @@ links:
 - BERT pre-training
 - BERT fine-tuning
 - BERT Performance
+- Other Models Based on Transformers
+- HuggingFace
