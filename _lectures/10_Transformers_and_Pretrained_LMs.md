@@ -16,7 +16,7 @@ links:
 - Transformers: Attention Is All You Need! (X Hour, XX Minutes and XX Seconds)
     - [Introduction to Transformers (16:23)](https://youtu.be/KCqihbmWeao)
     - [Self-Attention Mechanism (18:10)](https://youtu.be/qEBFfTywJNg)
-    - The Encoder Transformer Block
+    - [The Encoder Transformer Block (10:27)](https://youtu.be/iFD27h617jo)
     - The Input: Embeddings for Tokens
     - The Input: Embeddings for Positions
     - The Task Specific Head
