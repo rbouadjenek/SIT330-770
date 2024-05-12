@@ -23,7 +23,7 @@ links:
 - Pre-trained LMs (X Hour, XX Minutes and XX Seconds)
     - [BERT: Bidirectional Encoder Representations from Transformers (13:34)](https://youtu.be/7QRpWx9UhWo)
     - [BERT pre-training (13:39)](https://youtu.be/CJsVqr5uWvc)
-    - BERT fine-tuning
+    - [BERT fine-tuning (9:16)](https://youtu.be/yI6CfB_CceY)
     - BERT Performance
     - Other Models Based on Transformers
     - HuggingFace
