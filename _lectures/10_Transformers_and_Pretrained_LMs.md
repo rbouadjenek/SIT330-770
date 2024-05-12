@@ -18,7 +18,7 @@ links:
     - [Self-Attention Mechanism (18:10)](https://youtu.be/qEBFfTywJNg)
     - [The Encoder Transformer Block (10:27)](https://youtu.be/iFD27h617jo)
     - [The Input: Embeddings for Tokens (8:03)](https://youtu.be/DZuZFPH5lbo)
-    - The Input: Embeddings for Positions
+    - [The Input: Embeddings for Positions (11:15)](https://youtu.be/dRQ8cDMbq9E)
     - The Task Specific Head
 - Pre-trained LMs (X Hour, XX Minutes and XX Seconds)
     - BERT: Bidirectional Encoder Representations from Transformers
