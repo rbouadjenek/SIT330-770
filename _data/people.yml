@@ -1,26 +1,14 @@
 instructors:
   - name: Reda Bouadjenek
-    profile_pic: /_images/pp/Reda5.jpg
+    profile_pic: /_images/pp/Reda8.jpg
     webpage: https://rbouadjenek.github.io/
-  # - name: Minerva McGonagall
-  #   profile_pic: /_images/pp/mcgonagall.jpg
 
 burwood_campus_coordinator:
   - name: Bahadorreza Ofoghi
     profile_pic: /_images/pp/bahadorreza.png
-    webpage: https://www.deakin.edu.au/about-deakin/people/bahadorreza-ofoghi
-  # - name: Minerva McGonagall
-  #   profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://experts.deakin.edu.au/43463-Bahadorreza-Ofoghi
 
 teaching_assistants:
   - name: Aymen Khouas
     profile_pic: /_images/pp/aymen.jpeg
     webpage: https://www.linkedin.com/in/aymen-rayane-khouas/
-
-  # - name: Hermione Granger
-  #   profile_pic: /_images/pp/granger.jpg
-  #   webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  # - name: Ron Weasley
-  #   profile_pic: /_images/pp/weasley.jpg
-  #   webpage: https://en.wikipedia.org/wiki/Ron_Weasley
